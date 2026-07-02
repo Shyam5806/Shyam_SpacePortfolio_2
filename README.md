@@ -151,4 +151,4 @@ Replace `public/shyam.jpg` with your own photo (keep the filename).
 
 ---
 
-Built with ❤️ by **Shyam Sunder Pandey** — Final Year B.Tech CSE, UEM Jaipur
+Built with ❤️ by **Shyam Sunder Pandey** — Pre-Final Year B.Tech CSE, UEM Jaipur
